@@ -1,6 +1,8 @@
 # Sustainable-Power-Generation-Challenge-2023
 This repo contains material for the first SES Projects Challenge 2023
 
+![WhatsApp Image 2023-01-18 at 10 01 10 AM](https://user-images.githubusercontent.com/74782784/213120173-35390be4-e4f0-4f26-b728-3c6bd7fc91a2.jpeg)
+
 ## Goals
 As the world transitions from fossil fuels to renewable energy, solar energy has proved to be the most promising alternative and photovoltaics the most developed method of extraction. However, solar energy will not be enough to meet the current energy demand. To meet the ever increasing demand, we have to exploit all energy resources available to us such as wind, wave, hydro, and tidal sources.
 In kenya, while the government has done a great deal in increasing the energy supply, access to energy is still a major concern especially in rural areas. Thus there is an increasing need for off grid energy sources to supply these areas. 
